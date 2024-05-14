@@ -1,5 +1,5 @@
 
-# EX NO:10=2
+# EX NO:12
 <P align='center'> <b> 4-BIT-RIPPLE-COUNTER</b>
 
 **DATE:**
